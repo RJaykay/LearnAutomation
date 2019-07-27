@@ -1,0 +1,24 @@
+Hi,
+I feel privileged and happy to share with you that my skills set and experiences pair well with the requirements with this position. 
+To brief, myself agile and self-motivated senior testing professional with extensive experience in heading and managed multiple projects across various domains for the past years. My day at work starts with priorities set for the day that includes the below activities
+ 	•    Liaison with stake holders, product owner in identifying the prior tasks that needs immediate attention so that it’s delivered on time.
+ 	•    Quick catch with the test leads in understanding the challenges (if any) and progress of the task, any stopers that reduces the pace of testing activities.
+ 	•    Diagnose internal and user issues, prioritise the defects based on severity to be actioned, ensuring the test execution is in progress and adherence to proposed plan regarding the delivery. 
+ 	•    Ensure that progression test goes well with the sprint on the task board with regular interaction with the downstream and Environment teams
+ 	•    Attending governance and defect status meeting and updating the documents in confluence.
+Apart from the above my experiences also include 
+ 	•    Test strategy and test plan preparation and adherence
+ 	•    Test automation framework designing, implementation, Test Designing and Solution providing (POC’s), addition of test cases to the regression suite. (Selenium, Test NG, Maven, Cucumber, Jenkins - Integration (CI/CD), Gherkins (feature programming), SOAP, WSDL, XML API Testing (Postman, Docker, Swagger, AWS, TDD, BDD)
+ 	•    Regression, SIT, UAT Co-ordination, End to End Testing, API Testing (Allocation, tracking, problem solving) Onshore/ Offshore Coordination, mentoring the team.
+ 	•    Defect management (Complete lifecycle, triage, confirmation and closure activities, delegating/ assigning based on priority)
+ 	•    Status Reporting, Specifying Red, Amber, Green during critical cycles of test execution along with prioritising the tasks or specifying plan and action items for the next day. Also indicating the mitigation for the risk areas (if any).
+ 	•    Test summary preparation and reporting (during each major release, sign off)
+ 	•    Adherence to agile methodologies 
+		o Task assigning, Stand up call and Status call update
+		o Participating, information sharing with suggestions for improvement in Retro meetings
+I do have domain experiences in Banking (Global markets, Financial risk, Payments, Home loans), Insurance, Retail, Air freight, Transport and Intellectual Property. Would be happy to explain in detail over a scheduled time. Apart from the mentioned above, test initiation tasks, environment management and project tasks do pile up, at times with resource identifying that could be discussed over a scheduled time so that I can evidence myself as the best fit for the position.
+
+Best Regards
+Jayakumar Rajagopal
+0499266099
+
