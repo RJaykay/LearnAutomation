@@ -8,7 +8,7 @@ To brief, myself agile and self-motivated senior testing professional with exten
  	•    Attending governance and defect status meeting and updating the documents in confluence.
 Apart from the above my experiences also include 
  	•    Test strategy and test plan preparation and adherence
- 	•    Test automation framework designing, implementation, Test Designing and Solution providing (POC’s), addition of test cases to the regression suite. (Selenium, Test NG, Maven, Cucumber, Jenkins - Integration (CI/CD), GitHub, Gherkins (feature programming), SOAP, WSDL, XML API Testing (Postman, Docker, Swagger, AWS, TDD, BDD)
+ 	•    Test automation framework designing, implementation, Test Designing and Solution providing (POC’s), addition of test cases to the regression suite. (Selenium, Test NG, Maven, Cucumber, Jenkins - Integration (CI/CD), Gherkins (feature programming), SOAP, WSDL, XML API Testing (Postman, Docker, Swagger, AWS, TDD, BDD)
  	•    Regression, SIT, UAT Co-ordination, End to End Testing, API Testing (Allocation, tracking, problem solving) Onshore/ Offshore Coordination, mentoring the team.
  	•    Defect management (Complete lifecycle, triage, confirmation and closure activities, delegating/ assigning based on priority)
  	•    Status Reporting, Specifying Red, Amber, Green during critical cycles of test execution along with prioritising the tasks or specifying plan and action items for the next day. Also indicating the mitigation for the risk areas (if any).
